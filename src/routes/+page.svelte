@@ -23,7 +23,7 @@
                 <p class="py-5 font-light">Me and the Harvard Mark 1</p>
             </Carousel.Item>
             <Carousel.Item class="items-center">
-                <video class="w-full h-auto" controls loop src="/squatting.mov" title="454lb/205kg Squat video">
+                <video class="w-full h-auto" muted controls loop src="/squatting.mov" title="454lb/205kg Squat video">
                     Your browser does not support the video tag.
                 </video>
                 <p class="py-5 font-light">455lb/205kg Squat</p>
