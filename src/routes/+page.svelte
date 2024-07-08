@@ -39,9 +39,9 @@
         <Carousel.Next />
     </Carousel.Root>
     <div class="flex h-5 my-10 items-center space-x-4 font-light text-gray-500">
-        <a href="https://www.linkedin.com/in/johnma02/">LinkedIn</a>
+        <a href="https://www.linkedin.com/in/ma-jonathan/">LinkedIn</a>
         <Separator orientation="vertical"/>
-        <a href="https://github.com/johnma02">GitHub</a>
+        <a href="https://github.com/jma02">GitHub</a>
         <Separator orientation="vertical"/>
         <a href="/Ma_Jonathan.pdf" target="_blank">Resume</a>
         <Separator orientation="vertical"/>
