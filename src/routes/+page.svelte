@@ -46,6 +46,8 @@
         <a href="/Ma_Jonathan.pdf" target="_blank">Resume</a>
         <Separator orientation="vertical"/>
         <a href="mailto:ma.jonathan02@gmail.com">Email</a>
+        <Separator orientation="vertical"/>
+        <a href="https://jma02.vercel.app/">Another Website...</a>
     </div>
 
 </div>
